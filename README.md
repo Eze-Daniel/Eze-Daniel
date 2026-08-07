@@ -41,6 +41,11 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 ## 🛠️ Tools & Technologies
 
+## 🌐  Digital Forensic
+
+![FTK-IMAGER](https://img.shields.io/badge/FTK-IMAGER-FCC624?logo=FTK&logoColor=RED)
+![Autopsy](https://img.shields.io/badge/Autopsy-FCC624?logo=Autopsy&logoColor=Black)
+
 ## 💻 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)

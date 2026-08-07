@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="K.png" alt="GitHub Banner" width="100%">
+  <img src="K.png" alt="GitHub Banner" width="100%"> 
 </p>
 # Hi, I am Eze Daniel Onyedikachi
 ## About me 

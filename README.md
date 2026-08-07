@@ -1,3 +1,5 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%">
 Hi, I am Eze Daniel Onyedikachi
 ## About me 
 - I am  a cyber security student at NIIT Portharcourt, passionate about offensive and defensive cybersecurity. i enjoy building practical cybersecurity projects that demostrates real world skills in:

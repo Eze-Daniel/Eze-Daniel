@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="K.png" alt="k.png" width="100%">
-Hi, I am Eze Daniel Onyedikachi
+  <img src="K.png" alt="GitHub Banner" width="100%">
+</p>
+# Hi, I am Eze Daniel Onyedikachi
 ## About me 
 - I am  a cyber security student at NIIT Portharcourt, passionate about offensive and defensive cybersecurity. i enjoy building practical cybersecurity projects that demostrates real world skills in:
 - Penetration Testing
@@ -9,10 +10,14 @@ Hi, I am Eze Daniel Onyedikachi
 - Digital Forensics
 - OSINT
 - Threat Hunting
-### Project 
+### Project |
 ## Project        |       Discription                                                    |Repository 
-OSINT                     OSINT Investigator on a target system                           Coming soon 
+Digital Forensic  |       Forensic on an a digital Evidence ( a flash drive)             |Coming soon 
+------------------|----------------------------------------------------------------------|
+OSINT             |        OSINT Investigator on a target system                         |  Coming soon 
+------------------|----------------------------------------------------------------------|
 Log Analysis              IIS and Windows event Logs to identify attackers                Coming soon 
+------------------|----------------------------------------------------------------------|
 ### Skills 
 ## Operating systems 
 - Windows
